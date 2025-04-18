@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI-NirapodBangladesh 360°</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to AI-NirapodBangladesh 360°</h1>
+    <p>Your all-in-one AI platform for climate, disaster, farming, and smart city management!</p>
+  </header>
+
+  <section id="modules">
+    <div class="module-card">
+      <h2>Flood Forecast</h2>
+      <p>Get flood predictions and alerts.</p>
+    </div>
+    <div class="module-card">
+      <h2>Climate-Smart Farming</h2>
+      <p>AI-assisted farming solutions for better crops.</p>
+    </div>
+    <div class="module-card">
+      <h2>Waste Management</h2>
+      <p>Optimize waste collection and recycling.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AI-NirapodBangladesh</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
